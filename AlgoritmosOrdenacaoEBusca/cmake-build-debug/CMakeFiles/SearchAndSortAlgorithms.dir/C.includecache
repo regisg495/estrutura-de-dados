@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/regis/CLionProjects/AlgoritmosOrdenacaoEBusca/basiclist.h
+stdbool.h
+-
+
+C:/Users/regis/CLionProjects/AlgoritmosOrdenacaoEBusca/sort.c
+stdlib.h
+-
+sort.h
+C:/Users/regis/CLionProjects/AlgoritmosOrdenacaoEBusca/sort.h
+
+C:/Users/regis/CLionProjects/AlgoritmosOrdenacaoEBusca/sort.h
+basiclist.h
+C:/Users/regis/CLionProjects/AlgoritmosOrdenacaoEBusca/basiclist.h
+
